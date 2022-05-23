@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://cherry-brightspot.s3.amazonaws.com/36/2f/35750e5c4ae38e2a48aa0cee1d85/shutterstock-571647145.jpg);
+    font-family: sans-serif;
+    text-align: center;
+    background-size: auto;
+
+   
+    text-align: center;
+}
+h1{
+    color: #eb1313;
+}
+h2{
+    color: #9c1128;
+}
+p{
+    color: rgb(214, 24, 163);
+}
+button{
+    padding: 12px 40px;
+    color: rgb(28, 196, 138);
+    border: 2px solid rgb(30, 163, 63);
+    border-radius: 15px;
+    background: rgb(21, 216, 246);
+}
+li{color: aquamarine;
+
+}
